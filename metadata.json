@@ -1,0 +1,6 @@
+{
+  "name": "Tekki Services - Paiements Wave & Orange Money",
+  "description": "SaaS Tekki Services : abonnements automatisés Wave et Orange Money Sénégal (+221 78 424 34 20), espace administrateur sécurisé, analytics réels et messagerie directe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
